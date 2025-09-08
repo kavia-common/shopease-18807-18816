@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Shopease</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="cart">Cart</string>
+    <string name="orders">Orders</string>
+    <string name="profile">Profile</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="logout">Logout</string>
+    <string name="checkout">Checkout</string>
+    <string name="place_order">Place Order</string>
+</resources>
